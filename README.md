@@ -24,6 +24,6 @@ The project uses:
 
 - **ASP.NET Core MVC**
 - **Entity Framework Core**
-- **SQL Server** (or any other DBMS you're using)
+- **SQL Server**
 - **C#**
-- **HTML, CSS, JavaScript** (for the front-end)
+- **HTML, CSS, JavaScript, bootstrap** (for the front-end)
